@@ -1,2 +1,4 @@
 # Data_practice
-Pour l'entrainement
+Pour l'entrainement :
+
+Projet Titanic
