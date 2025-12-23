@@ -1,4 +1,5 @@
 # Data_practice
 Pour l'entrainement :
 
-Projet Titanic
+- Projet Titanic
+- Grid search
