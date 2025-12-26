@@ -3,3 +3,4 @@ Pour l'entrainement :
 
 - Projet Titanic
 - Grid search
+- Pipeline
